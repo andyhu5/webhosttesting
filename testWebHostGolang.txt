@@ -1,0 +1,16 @@
+ComputerName         RemotePort   TcpTestSucceeded
+--------------------------------------------------
+twitter.com          443          true           
+pinterest.com        443          true           
+x.com                443          true           
+youtube.com          443          true           
+tumblr.com           443          true           
+google.com           443          true           
+linkedin.com         443          true           
+microsoft.com        443          true           
+reddit.com           443          true           
+facebook.com         443          true           
+instagram.com        443          true           
+aws.com              443          true           
+
+Execution Duration: 0.17 seconds

@@ -1,0 +1,5 @@
+rust 0.08 seconds
+golang 0.17 seconds
+python 0.24 seconds
+powershell 0.3069843
+
